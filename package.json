@@ -1,0 +1,7 @@
+{
+  "name": "test-submodule",
+  "packageManager": "yarn@3.3.0",
+  "dependencies": {
+    "@submodule/cli": "^1.0.2"
+  }
+}
